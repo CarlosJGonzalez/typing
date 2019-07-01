@@ -1,0 +1,60 @@
+    .untyped
+    {
+        color:#000 ;
+    }
+
+    .good
+    {
+        color:#339900;
+    }
+
+    .wrong
+    {
+         color:#ff0000;
+    }
+
+    .focus
+    {
+    	background-color: #6699CC;
+    	border-radius : 10%;
+    }
+
+	#textSource{
+		width: 100%;
+		height: 150px;
+		overflow: hidden;
+		margin:5px;
+	}
+	
+	.header{
+		font-size: 24px;
+		background-color: #cccccc;
+		color: #ffffff;
+	}
+	
+	#display{
+		font-size: 28;
+		line-height: 170%;
+		font-family: Times New Roman;
+		/*border: solid 1px #cfcfcf;*/
+		background-color: #fff;
+	}
+
+	.flex-item{
+		display: inline-grid;
+		margin:1px;
+		width:19%;
+		text-align: center;
+	}
+
+	.record-row{
+		border-bottom: solid 1px #555555;
+	}
+	.container{
+		margin-top:55px;
+		max-width: 90%;
+	}
+
+	.header{
+		font-size:1em;
+	}
